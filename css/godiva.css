@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    background-color: #3b1a0f;
+}
+.header .logo {}
+.header .logo a img {}
+.header .logo a {}
